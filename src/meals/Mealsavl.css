@@ -1,0 +1,12 @@
+.meals{
+    background-color: white;
+    padding:20px;
+    padding-right: 0px;
+    width:70%;
+    margin:40px auto;
+    margin-top: 70px;
+    border-radius: 10px;
+    overflow: auto;
+   max-height: 500px;
+
+}
