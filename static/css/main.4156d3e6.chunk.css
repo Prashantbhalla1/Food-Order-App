@@ -64,5 +64,87 @@ h3{
     }
 
 }
+ @media all and (max-width:630px){
+    .summary h2 {
+      font-size: 1.7rem;
+      margin-top: 0;
+    }
+.summary{
+  font-size: 0.8rem;
+  width:70%;
+  margin-top: -8rem;
+  padding: 1rem;
+}
+
+
+  }
+  @media all and (max-width:510px){
+    .summary h2 {
+      font-size: 1.2rem;
+      margin-top: 0;
+    }
+.summary{
+  font-size: 0.6rem;
+  width:80%;
+  margin-top: -5rem;
+  padding: 0.8rem;
+}
+
+
+
+
+
+  }
+  @media all and (max-width:370px){
+.summary h2{
+font-size: 1rem;
+}
+.summary{
+  font-size: 0.5rem;
+  margin-top: -4rem;
+}
+
+  }
+@media all and (max-width:624px) {
+    .meals{
+        padding: 0px;
+    }
+}
+
+@media all and (max-width:620px){
+  .head h1{
+    margin: 0px;
+    font-size: 1.5rem;
+  }
+
+  span+span{display: flex
+  ;
+  justify-content: center;
+  align-items: center;
+width:20px;
+height: 20px;
+}
+button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-size: 1rem;
+  padding: 1px 5px;
+}
+.head button{
+  margin:0px
+}
+}
+@media all and ( max-width:400px)
+{
+  .head h1{
+    font-size: 1rem;
+  }
+  button{
+font-size: 0.7rem;
+  }
+}
+
 
 /*# sourceMappingURL=main.4156d3e6.chunk.css.map */
