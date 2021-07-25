@@ -146,5 +146,53 @@ font-size: 0.7rem;
   }
 }
 
+@media all and (max-width:650px){
+    .cartdisplay{
+        width: 60%;
+        padding: 10px;
+
+    }
+    h5{
+        font-size: 1.1rem;
+    }
+    .amount{
+        font-weight: bolder;
+        font-size: 1.1rem;
+        
+        margin-bottom: 20px;
+        margin-top: 20px;
+    
+    }
+.btnn{
+    display: inline;
+    padding: 0px;
+    
+}
+
+
+
+}
+@media all and (max-width:650px){
+    .inc{
+        border-radius: 6px;
+        background-color: rgb(158, 9, 9);
+       padding: 1px 8px;
+        display: inline-block;
+        color: white;
+        margin: 1px;
+    }
+    .ammmm{
+        font-size: 1rem;
+        margin: 0px;
+    }
+.increased{
+    width:20px;
+    height: 20px;
+    margin-left: 4px;
+    font-size: 1rem;
+}
+
+
+}
 
 /*# sourceMappingURL=main.4156d3e6.chunk.css.map */
